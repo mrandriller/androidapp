@@ -1,2 +1,2 @@
-# androidapp
-This is just testing. I'm Beginner
+# NewLife Mobile
+Sagaing Division, Budalin Township, Ngapayin
