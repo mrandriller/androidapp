@@ -6759,3 +6759,33 @@ html {
 }
 
 /** end my table **/
+
+/** my custom table 2**/
+	
+	#customers2 {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+	color: blue;
+	text-align: center;
+	font-weight: bold
+}
+
+#customers2 td, #customers2 th {
+    border: 1px solid #830000;
+    padding: 20px;
+}
+
+#customers2 tr:nth-child(even){background-color: #fff;}
+
+#customers2 tr:hover {background-color: #908E8E;}
+
+#customers2 th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #016806;
+    color: white;
+}
+
+/** end my table **/
