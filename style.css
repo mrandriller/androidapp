@@ -6778,7 +6778,7 @@ html {
 
 #customers2 tr:nth-child(even){background-color: #fff;}
 
-#customers2 tr:hover {background-color: #908E8E;}
+#customers2 tr:hover {background-color: #eff;}
 
 #customers2 th {
     padding-top: 10px;
