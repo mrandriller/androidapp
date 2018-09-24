@@ -1798,8 +1798,8 @@ fieldset[disabled] a.btn {
  
 .btn-primary {
   color: #fff;
-  background-color: #222;
-  border-color: #222; }
+  background-color: #003402;
+  border-color: #660000; }
   .btn-primary:hover {
     color: #fff;
     background-color: #0f0f0f;
@@ -1817,7 +1817,7 @@ fieldset[disabled] a.btn {
  
 .btn-secondary {
   color: #fff;
-  background-color: #990000;
+  background-color: #001080;
   border-color: #990000; }
   .btn-secondary:hover {
     color: #fff;
@@ -3160,7 +3160,7 @@ tbody.collapse.show {
   z-index: 2;
   color: #fff;
   background-color: #990000;
-  border-color: #990000; }
+  border-color: #930391; }
 .page-item.disabled .page-link {
   color: #868e96;
   pointer-events: none;
@@ -6537,7 +6537,7 @@ Navbar
  
 .navbar {
   padding: 0.7rem 25px;
-  background-color: #B42E25 !important;
+  background-color: #001080 !important;
   border-bottom: 3px solid #288F01; }
  
 .navbar-dark .navbar-brand {
@@ -6746,7 +6746,7 @@ html {
     padding: 8px;
 }
 
-#customers tr:nth-child(even){background-color: #5F0258;}
+#customers tr:nth-child(even){background-color: #001080;}
 
 #customers tr:hover {background-color: #130C98;}
 
@@ -6784,7 +6784,7 @@ html {
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
-    background-color: #016806;
+    background-color: #001080;
     color: white;
 }
 
