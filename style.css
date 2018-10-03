@@ -1,8 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
-/********************************************************************
-    ZYPOP - HTTPS://ZYPOPWEBTEMPLATES.COM
-    FREE WEB TEMPLATES
-********************************************************************/
+
 /**
 This file contains the CSS variables for this template, built on the Bootstrap framework 
 See https://getbootstrap.com/docs/4.0/getting-started/introduction/ for more information
@@ -6612,7 +6609,7 @@ footer {
   background-color: transparent;
   padding: 0;
   box-shadow: none;
-  color: #00fff3;
+  color: #FF1300;
   font-weight: bold;
   font-size: 1.5rem; }
  
